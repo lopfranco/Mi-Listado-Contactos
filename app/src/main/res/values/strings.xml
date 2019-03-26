@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Mi Listado Favorito</string>
+
+    <!-- Leyendas -->
+    <string name="tvConfirmarDatos">Confirmar Datos</string>
+    <string name="tvNombreCompleto">Nombre: </string>
+    <string name="tvFecha">Fecha Nacimiento: </string>
+    <string name="tvTelefono">Telefono: </string>
+    <string name="tvEmail">Email: </string>
+    <string name="tvDescripcion">Descripción: </string>
+
+    <!-- Hints -->
+    <string name="etNombreCompleto">Nombre Completo</string>
+    <string name="etFecha">Fecha</string>
+    <string name="etTelefono">Telefono</string>
+    <string name="etEmail">Email</string>
+    <string name="etDescripcion">Descripcion del Contacto</string>
+
+    <!-- Botontes -->
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="btnEditarDatos">Editar Datos</string>
+
+    <!-- putExtraListado -->
+    <string name="pNombre">Nombre</string>
+    <string name="pFecha">Fecha</string>
+    <string name="pEmail">Email</string>
+    <string name="pTelefono">Telefono</string>
+    <string name="pDescripcion">Descripcion</string>
+
 </resources>
